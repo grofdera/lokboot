@@ -1,1 +1,1 @@
-# Lokbidhi Wordpress Bootstrap theme
+# Wordpress Bootstrap theme
